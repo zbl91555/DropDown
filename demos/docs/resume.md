@@ -2,7 +2,7 @@
 
 ----
 
-<pdf src="https://github.com/zbl91555/DropDown/blob/master/static/resume.pdf"></pdf>
+<pdf src="../../static/resume.pdf"></pdf>
 <script>
   import pdf from 'vue-pdf'
   export default {
