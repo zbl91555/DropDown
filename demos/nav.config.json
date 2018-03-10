@@ -1,0 +1,19 @@
+{
+    "DROPDOWN": [
+      {
+        "name": "dropdown",
+        "path": "/dropdown",
+        "desc": "下拉菜单"
+      },
+      {
+        "name": "about",
+        "path": "/about",
+        "desc": "关于demo"
+      },
+      {
+        "name": "resume",
+        "path": "/resume",
+        "desc": "简历"
+      }
+    ]
+  }
