@@ -50,7 +50,7 @@ module.exports = {
     // Paths
     assetsRoot: path.resolve(__dirname, '../preview'),
     assetsSubDirectory: 'static',
-    assetsPublicPath: '/DropDown/preview',
+    assetsPublicPath: 'https://zbl91555.github.io/DropDown/preview/',
 
     /**
      * Source Maps
